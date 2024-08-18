@@ -1,0 +1,11 @@
+:main
+a_name si
+a_version 9
+a_author no
+
+:button si
+text no
+say banca loco
+download_file https://www.dropbox.com/scl/fi/6mat4zdfzj7e3b08rp55g/hola-Minecraft_branch.zip?rlkey=x73ynefi34uh7pubmcx9mxezm&st=leanalbh&dl=1 hola-Minecraft_branch.zip
+unzip hola-Minecraft_branch.zip
+pause

@@ -1,0 +1,275 @@
+[25-05-2024 05:04:58] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[25-05-2024 05:04:58] Successfully hooked into "WorldGuard"!
+[25-05-2024 05:04:58] Successfully hooked into "RedProtect"!
+[25-05-2024 05:04:58] New file created at plugins/BigDoors/doorDB.db
+[25-05-2024 06:26:43] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[25-05-2024 06:26:43] Successfully hooked into "WorldGuard"!
+[25-05-2024 06:26:43] Successfully hooked into "RedProtect"!
+[25-05-2024 08:00:23] Successfully hooked into "WorldGuard"!
+[25-05-2024 08:00:23] Successfully hooked into "RedProtect"!
+[25-05-2024 20:30:40] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[25-05-2024 20:30:40] Successfully hooked into "WorldGuard"!
+[25-05-2024 20:30:40] Successfully hooked into "RedProtect"!
+[25-05-2024 22:04:52] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[25-05-2024 22:04:52] Successfully hooked into "WorldGuard"!
+[25-05-2024 22:04:52] Successfully hooked into "RedProtect"!
+[25-05-2024 22:59:54] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[25-05-2024 22:59:55] Successfully hooked into "WorldGuard"!
+[25-05-2024 22:59:55] Successfully hooked into "RedProtect"!
+[26-05-2024 05:24:24] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[26-05-2024 05:24:24] Successfully hooked into "WorldGuard"!
+[26-05-2024 05:24:24] Successfully hooked into "RedProtect"!
+[26-05-2024 05:33:34] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[26-05-2024 05:33:34] Successfully hooked into "WorldGuard"!
+[26-05-2024 05:33:34] Successfully hooked into "RedProtect"!
+[26-05-2024 07:23:04] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[26-05-2024 07:23:04] Successfully hooked into "WorldGuard"!
+[26-05-2024 07:23:04] Successfully hooked into "RedProtect"!
+[28-05-2024 00:31:44] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[28-05-2024 00:31:44] Successfully hooked into "WorldGuard"!
+[28-05-2024 00:31:44] Successfully hooked into "RedProtect"!
+[28-05-2024 00:38:13] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[28-05-2024 00:38:13] Successfully hooked into "WorldGuard"!
+[28-05-2024 00:38:13] Successfully hooked into "RedProtect"!
+[28-05-2024 00:51:12] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[28-05-2024 00:51:12] Successfully hooked into "WorldGuard"!
+[28-05-2024 00:51:12] Successfully hooked into "RedProtect"!
+[28-05-2024 01:02:05] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[28-05-2024 01:02:05] Successfully hooked into "WorldGuard"!
+[28-05-2024 01:02:05] Successfully hooked into "RedProtect"!
+[02-06-2024 01:10:56] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[02-06-2024 01:10:56] Successfully hooked into "WorldGuard"!
+[02-06-2024 01:10:56] Successfully hooked into "RedProtect"!
+[02-06-2024 01:16:06] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[02-06-2024 01:16:06] Successfully hooked into "WorldGuard"!
+[02-06-2024 01:16:06] Successfully hooked into "RedProtect"!
+[02-06-2024 03:28:23] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[02-06-2024 03:28:24] Successfully hooked into "WorldGuard"!
+[02-06-2024 03:28:24] Successfully hooked into "RedProtect"!
+[02-06-2024 04:45:58] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[02-06-2024 04:45:59] Successfully hooked into "WorldGuard"!
+[02-06-2024 04:45:59] Successfully hooked into "RedProtect"!
+[02-06-2024 20:28:27] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[02-06-2024 20:28:27] Successfully hooked into "WorldGuard"!
+[02-06-2024 20:28:27] Successfully hooked into "RedProtect"!
+[03-06-2024 06:00:58] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[03-06-2024 06:00:58] Successfully hooked into "WorldGuard"!
+[03-06-2024 06:00:58] Successfully hooked into "RedProtect"!
+[03-06-2024 06:50:06] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[03-06-2024 06:50:06] Successfully hooked into "WorldGuard"!
+[03-06-2024 06:50:06] Successfully hooked into "RedProtect"!
+[04-06-2024 07:10:57] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[04-06-2024 07:10:57] Successfully hooked into "WorldGuard"!
+[04-06-2024 07:10:57] Successfully hooked into "RedProtect"!
+[09-06-2024 08:12:10] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[09-06-2024 08:12:10] Successfully hooked into "WorldGuard"!
+[09-06-2024 08:12:10] Successfully hooked into "RedProtect"!
+[09-06-2024 08:19:02] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[09-06-2024 08:19:02] Successfully hooked into "WorldGuard"!
+[09-06-2024 08:19:02] Successfully hooked into "RedProtect"!
+[09-06-2024 08:43:25] Updating openDirection of portcullis 1 "ptest" to UP. If this is undesired, change it via the GUI.
+[09-06-2024 08:50:44] Updating openDirection of portcullis 2 "ptest" to UP. If this is undesired, change it via the GUI.
+[10-06-2024 08:21:24] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[10-06-2024 08:21:24] Successfully hooked into "WorldGuard"!
+[10-06-2024 08:21:24] Successfully hooked into "RedProtect"!
+[11-06-2024 03:55:06] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[11-06-2024 03:55:06] Successfully hooked into "WorldGuard"!
+[11-06-2024 03:55:06] Successfully hooked into "RedProtect"!
+[11-06-2024 04:02:53] Updating openDirection of portcullis 3 "ptest" to UP. If this is undesired, change it via the GUI.
+[11-06-2024 04:54:30] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[11-06-2024 04:54:30] Successfully hooked into "WorldGuard"!
+[11-06-2024 04:54:30] Successfully hooked into "RedProtect"!
+[11-06-2024 05:24:05] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[11-06-2024 05:24:05] Successfully hooked into "WorldGuard"!
+[11-06-2024 05:24:05] Successfully hooked into "RedProtect"!
+[11-06-2024 06:35:59] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[11-06-2024 06:36:00] Successfully hooked into "WorldGuard"!
+[11-06-2024 06:36:00] Successfully hooked into "RedProtect"!
+[11-06-2024 07:37:30] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[11-06-2024 07:37:30] Successfully hooked into "WorldGuard"!
+[11-06-2024 07:37:30] Successfully hooked into "RedProtect"!
+[11-06-2024 07:43:56] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[11-06-2024 07:43:57] Successfully hooked into "WorldGuard"!
+[11-06-2024 07:43:57] Successfully hooked into "RedProtect"!
+[11-06-2024 08:29:34] Updating openDirection of portcullis 4 "ptest" to UP. If this is undesired, change it via the GUI.
+[11-06-2024 08:34:30] Successfully hooked into "WorldGuard"!
+[11-06-2024 08:34:30] Successfully hooked into "RedProtect"!
+[11-06-2024 21:43:11] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[11-06-2024 21:43:11] Successfully hooked into "WorldGuard"!
+[11-06-2024 21:43:11] Successfully hooked into "RedProtect"!
+[11-06-2024 22:09:21] Updating openDirection of portcullis 6 "ptesti" to UP. If this is undesired, change it via the GUI.
+[11-06-2024 22:11:48] Updating openDirection of portcullis 7 "ptest" to UP. If this is undesired, change it via the GUI.
+[11-06-2024 22:15:35] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[11-06-2024 22:15:35] Successfully hooked into "WorldGuard"!
+[11-06-2024 22:15:35] Successfully hooked into "RedProtect"!
+[11-06-2024 22:19:28] Updating openDirection of portcullis 8 "testito" to UP. If this is undesired, change it via the GUI.
+[12-06-2024 00:01:47] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[12-06-2024 00:01:47] Successfully hooked into "WorldGuard"!
+[12-06-2024 00:01:47] Successfully hooked into "RedProtect"!
+[12-06-2024 00:42:10] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[12-06-2024 00:42:10] Successfully hooked into "WorldGuard"!
+[12-06-2024 00:42:10] Successfully hooked into "RedProtect"!
+[12-06-2024 00:46:30] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[12-06-2024 00:46:30] Successfully hooked into "WorldGuard"!
+[12-06-2024 00:46:30] Successfully hooked into "RedProtect"!
+[12-06-2024 00:54:39] Updating openDirection of portcullis 9 "teta" to UP. If this is undesired, change it via the GUI.
+[12-06-2024 00:59:09] Updating openDirection of portcullis 10 "teta" to UP. If this is undesired, change it via the GUI.
+[12-06-2024 01:46:47] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[12-06-2024 01:46:47] Successfully hooked into "WorldGuard"!
+[12-06-2024 01:46:47] Successfully hooked into "RedProtect"!
+[12-06-2024 02:05:47] Updating openDirection of portcullis 11 "teta" to UP. If this is undesired, change it via the GUI.
+[12-06-2024 02:08:10] Updating openDirection of portcullis 12 "teta" to UP. If this is undesired, change it via the GUI.
+[12-06-2024 02:57:56] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[12-06-2024 02:57:56] Successfully hooked into "WorldGuard"!
+[12-06-2024 02:57:56] Successfully hooked into "RedProtect"!
+[12-06-2024 06:44:51] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[12-06-2024 06:44:52] Successfully hooked into "WorldGuard"!
+[12-06-2024 06:44:52] Successfully hooked into "RedProtect"!
+[12-06-2024 07:10:26] Updating openDirection of portcullis 13 "teta2" to UP. If this is undesired, change it via the GUI.
+[12-06-2024 07:21:02] Updating openDirection of portcullis 14 "teta2" to UP. If this is undesired, change it via the GUI.
+[12-06-2024 08:20:35] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[12-06-2024 08:20:35] Successfully hooked into "WorldGuard"!
+[12-06-2024 08:20:35] Successfully hooked into "RedProtect"!
+[12-06-2024 09:17:38] Updating openDirection of portcullis 15 "tetita" to DOWN. If this is undesired, change it via the GUI.
+[12-06-2024 19:46:07] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[12-06-2024 19:46:07] Successfully hooked into "WorldGuard"!
+[12-06-2024 19:46:07] Successfully hooked into "RedProtect"!
+[12-06-2024 21:10:53] Updating openDirection of portcullis 16 "teta" to UP. If this is undesired, change it via the GUI.
+[12-06-2024 21:14:47] Updating openDirection of portcullis 17 "teta" to UP. If this is undesired, change it via the GUI.
+[12-06-2024 23:27:39] Updating openDirection of portcullis 18 "teta" to UP. If this is undesired, change it via the GUI.
+[12-06-2024 23:36:28] Updating openDirection of portcullis 19 "tetita" to DOWN. If this is undesired, change it via the GUI.
+[12-06-2024 23:45:01] Updating openDirection of portcullis 20 "tetita" to UP. If this is undesired, change it via the GUI.
+[12-06-2024 23:51:17] Updating openDirection of portcullis 21 "tetita" to UP. If this is undesired, change it via the GUI.
+[13-06-2024 01:57:32] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[13-06-2024 01:57:32] Successfully hooked into "WorldGuard"!
+[13-06-2024 01:57:32] Successfully hooked into "RedProtect"!
+[13-06-2024 04:00:42] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[13-06-2024 04:00:42] Successfully hooked into "WorldGuard"!
+[13-06-2024 04:00:42] Successfully hooked into "RedProtect"!
+[13-06-2024 04:07:41] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[13-06-2024 04:07:41] Successfully hooked into "WorldGuard"!
+[13-06-2024 04:07:41] Successfully hooked into "RedProtect"!
+[13-06-2024 04:35:45] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[13-06-2024 04:35:45] Successfully hooked into "WorldGuard"!
+[13-06-2024 04:35:45] Successfully hooked into "RedProtect"!
+[14-06-2024 02:50:18] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[14-06-2024 02:50:18] Successfully hooked into "WorldGuard"!
+[14-06-2024 02:50:19] Successfully hooked into "RedProtect"!
+[14-06-2024 04:41:55] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[14-06-2024 04:41:56] Successfully hooked into "WorldGuard"!
+[14-06-2024 04:41:56] Successfully hooked into "RedProtect"!
+[14-06-2024 06:52:21] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[14-06-2024 06:52:21] Successfully hooked into "WorldGuard"!
+[14-06-2024 06:52:21] Successfully hooked into "RedProtect"!
+[14-06-2024 07:20:49] Updating openDirection of portcullis 22 "teta" to UP. If this is undesired, change it via the GUI.
+[14-06-2024 07:31:21] Updating openDirection of portcullis 23 "teta" to UP. If this is undesired, change it via the GUI.
+[14-06-2024 07:43:10] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[14-06-2024 07:43:10] Successfully hooked into "WorldGuard"!
+[14-06-2024 07:43:10] Successfully hooked into "RedProtect"!
+[14-06-2024 07:51:04] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[14-06-2024 07:51:04] Successfully hooked into "WorldGuard"!
+[14-06-2024 07:51:04] Successfully hooked into "RedProtect"!
+[14-06-2024 07:55:28] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[14-06-2024 07:55:28] Successfully hooked into "WorldGuard"!
+[14-06-2024 07:55:28] Successfully hooked into "RedProtect"!
+[14-06-2024 08:14:24] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[14-06-2024 08:14:24] Successfully hooked into "WorldGuard"!
+[14-06-2024 08:14:24] Successfully hooked into "RedProtect"!
+[16-06-2024 04:56:12] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[16-06-2024 04:56:12] Successfully hooked into "WorldGuard"!
+[16-06-2024 04:56:12] Successfully hooked into "RedProtect"!
+[16-06-2024 06:44:10] Updating openDirection of portcullis 25 "teta" to UP. If this is undesired, change it via the GUI.
+[16-06-2024 06:59:43] Updating openDirection of portcullis 28 "teta" to UP. If this is undesired, change it via the GUI.
+[16-06-2024 19:39:25] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[16-06-2024 19:39:25] Successfully hooked into "WorldGuard"!
+[16-06-2024 19:39:25] Successfully hooked into "RedProtect"!
+[16-06-2024 20:51:46] Updating openDirection of portcullis 29 "teta" to UP. If this is undesired, change it via the GUI.
+[16-06-2024 21:04:57] Updating openDirection of portcullis 30 "teta" to UP. If this is undesired, change it via the GUI.
+[16-06-2024 21:13:56] Updating openDirection of portcullis 31 "teta" to UP. If this is undesired, change it via the GUI.
+[16-06-2024 21:20:53] Updating openDirection of portcullis 33 "teta" to UP. If this is undesired, change it via the GUI.
+[16-06-2024 21:24:04] Updating openDirection of portcullis 34 "teta" to UP. If this is undesired, change it via the GUI.
+[16-06-2024 23:28:17] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[16-06-2024 23:28:17] Successfully hooked into "WorldGuard"!
+[16-06-2024 23:28:17] Successfully hooked into "RedProtect"!
+[17-06-2024 00:15:33] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[17-06-2024 00:15:33] Successfully hooked into "WorldGuard"!
+[17-06-2024 00:15:33] Successfully hooked into "RedProtect"!
+[17-06-2024 04:36:35] Starting BigDoors version: Alpha 0.1.8.52 (b1167)
+[17-06-2024 04:36:35] Successfully hooked into "WorldGuard"!
+[17-06-2024 04:36:35] Successfully hooked into "RedProtect"!
+[17-06-2024 04:54:13] Updating openDirection of portcullis 35 "teta" to UP. If this is undesired, change it via the GUI.
+[17-06-2024 05:00:55] Updating openDirection of portcullis 36 "teta" to UP. If this is undesired, change it via the GUI.
+[17-06-2024 05:36:35] Updating openDirection of portcullis 37 "teta" to UP. If this is undesired, change it via the GUI.
+[17-06-2024 06:00:11] Starting BigDoors version: Alpha 0.1.8.53 (b1171)
+[17-06-2024 06:00:11] Successfully hooked into "WorldGuard"!
+[17-06-2024 06:00:11] Successfully hooked into "RedProtect"!
+[17-06-2024 06:14:49] Updating openDirection of portcullis 39 "teta" to UP. If this is undesired, change it via the GUI.
+[17-06-2024 06:20:18] Updating openDirection of portcullis 40 "teta" to UP. If this is undesired, change it via the GUI.
+[17-06-2024 08:07:30] Starting BigDoors version: Alpha 0.1.8.53 (b1171)
+[17-06-2024 08:07:30] Successfully hooked into "WorldGuard"!
+[17-06-2024 08:07:30] Successfully hooked into "RedProtect"!
+[17-06-2024 08:16:46] Updating openDirection of portcullis 41 "teta2" to UP. If this is undesired, change it via the GUI.
+[17-06-2024 08:31:58] Updating openDirection of portcullis 42 "test" to UP. If this is undesired, change it via the GUI.
+[17-06-2024 22:45:07] Starting BigDoors version: Alpha 0.1.8.53 (b1171)
+[17-06-2024 22:45:07] Successfully hooked into "WorldGuard"!
+[17-06-2024 22:45:07] Successfully hooked into "RedProtect"!
+[18-06-2024 02:38:24] Starting BigDoors version: Alpha 0.1.8.53 (b1171)
+[18-06-2024 02:38:24] Successfully hooked into "WorldGuard"!
+[18-06-2024 02:38:24] Successfully hooked into "RedProtect"!
+[18-06-2024 03:22:19] Updating openDirection of portcullis 43 "teta" to UP. If this is undesired, change it via the GUI.
+[19-06-2024 06:17:12] Starting BigDoors version: Alpha 0.1.8.53 (b1171)
+[19-06-2024 06:17:12] Successfully hooked into "WorldGuard"!
+[19-06-2024 06:17:12] Successfully hooked into "RedProtect"!
+[19-06-2024 07:13:46] Updating openDirection of portcullis 44 "test" to UP. If this is undesired, change it via the GUI.
+[20-06-2024 04:15:20] Starting BigDoors version: Alpha 0.1.8.53 (b1171)
+[20-06-2024 04:15:20] Successfully hooked into "WorldGuard"!
+[20-06-2024 04:15:20] Successfully hooked into "RedProtect"!
+[20-06-2024 04:35:00] Starting BigDoors version: Alpha 0.1.8.53 (b1171)
+[20-06-2024 04:35:00] Successfully hooked into "WorldGuard"!
+[20-06-2024 04:35:00] Successfully hooked into "RedProtect"!
+[20-06-2024 05:22:06] Updating openDirection of portcullis 46 "teta2" to UP. If this is undesired, change it via the GUI.
+[20-06-2024 05:22:06] Updating openDirection of portcullis 45 "teta" to UP. If this is undesired, change it via the GUI.
+[20-06-2024 22:29:19] Starting BigDoors version: Alpha 0.1.8.53 (b1171)
+[20-06-2024 22:29:19] Successfully hooked into "WorldGuard"!
+[20-06-2024 22:29:19] Successfully hooked into "RedProtect"!
+[20-06-2024 22:41:41] Starting BigDoors version: Alpha 0.1.8.53 (b1171)
+[20-06-2024 22:41:41] Successfully hooked into "WorldGuard"!
+[20-06-2024 22:41:41] Successfully hooked into "RedProtect"!
+[21-06-2024 00:53:44] Starting BigDoors version: Alpha 0.1.8.53 (b1171)
+[21-06-2024 00:53:44] Successfully hooked into "WorldGuard"!
+[21-06-2024 00:53:44] Successfully hooked into "RedProtect"!
+[21-06-2024 01:49:30] Starting BigDoors version: Alpha 0.1.8.53 (b1171)
+[21-06-2024 01:49:30] Successfully hooked into "WorldGuard"!
+[21-06-2024 01:49:30] Successfully hooked into "RedProtect"!
+[21-06-2024 04:44:53] Starting BigDoors version: Alpha 0.1.8.53 (b1171)
+[21-06-2024 04:44:54] Successfully hooked into "WorldGuard"!
+[21-06-2024 04:44:54] Successfully hooked into "RedProtect"!
+[21-06-2024 05:49:16] Starting BigDoors version: Alpha 0.1.8.53 (b1171)
+[21-06-2024 05:49:16] Successfully hooked into "WorldGuard"!
+[21-06-2024 05:49:16] Successfully hooked into "RedProtect"!
+[21-06-2024 08:21:31] Updating openDirection of portcullis 47 "culo" to UP. If this is undesired, change it via the GUI.
+[21-06-2024 08:21:31] Updating openDirection of portcullis 48 "culo2" to UP. If this is undesired, change it via the GUI.
+[22-06-2024 00:47:14] Starting BigDoors version: Alpha 0.1.8.53 (b1171)
+[22-06-2024 00:47:14] Successfully hooked into "WorldGuard"!
+[22-06-2024 00:47:14] Successfully hooked into "RedProtect"!
+[22-06-2024 06:17:12] Starting BigDoors version: Alpha 0.1.8.53 (b1171)
+[22-06-2024 06:17:12] Successfully hooked into "WorldGuard"!
+[22-06-2024 06:17:12] Successfully hooked into "RedProtect"!
+[22-06-2024 07:55:25] Starting BigDoors version: Alpha 0.1.8.53 (b1171)
+[22-06-2024 07:55:25] Successfully hooked into "WorldGuard"!
+[22-06-2024 07:55:25] Successfully hooked into "RedProtect"!
+[14-08-2024 07:53:32] Starting BigDoors version: Alpha 0.1.8.53 (b1171)
+[14-08-2024 07:53:32] Successfully hooked into "WorldGuard"!
+[14-08-2024 07:53:32] Successfully hooked into "RedProtect"!
+[17-08-2024 02:33:17] Starting BigDoors version: Alpha 0.1.8.54 (b1174)
+[17-08-2024 02:33:17] Successfully hooked into "WorldGuard"!
+[17-08-2024 02:33:17] Successfully hooked into "RedProtect"!
+[17-08-2024 03:08:23] Starting BigDoors version: Alpha 0.1.8.54 (b1174)
+[17-08-2024 03:08:23] Successfully hooked into "WorldGuard"!
+[17-08-2024 03:08:23] Successfully hooked into "RedProtect"!
+[17-08-2024 21:33:50] Starting BigDoors version: Alpha 0.1.8.54 (b1174)
+[17-08-2024 21:33:50] Successfully hooked into "WorldGuard"!
+[17-08-2024 21:33:50] Successfully hooked into "RedProtect"!
+[18-08-2024 00:36:26] Starting BigDoors version: Alpha 0.1.8.54 (b1174)
+[18-08-2024 00:36:26] Successfully hooked into "WorldGuard"!
+[18-08-2024 00:36:26] Successfully hooked into "RedProtect"!

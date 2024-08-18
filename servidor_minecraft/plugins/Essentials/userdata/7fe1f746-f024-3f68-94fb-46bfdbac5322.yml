@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 34.145.53.9
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1705035597033
+  login: 1705034297224
+money: '0'
+last-account-name: Toy7Chica
+logoutlocation:
+  world: 4e383350-d6d1-4f74-9f66-535777761480
+  world-name: world
+  x: 1499.0
+  y: 69.0
+  z: -1028.0
+  yaw: -91.288818359375
+  pitch: -0.9517982602119446

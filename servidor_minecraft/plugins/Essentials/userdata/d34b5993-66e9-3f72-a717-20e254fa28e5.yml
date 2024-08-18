@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 190.177.177.229
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1679046690320
+  login: 1679043681392
+money: '0'
+logoutlocation:
+  world: 4e383350-d6d1-4f74-9f66-535777761480
+  world-name: world
+  x: 8164.699999988079
+  y: 103.0
+  z: -5427.348686377942
+  yaw: -75.72900390625
+  pitch: 74.39984130859375
+last-account-name: Fr4nko69
+lastlocation:
+  world: 4e383350-d6d1-4f74-9f66-535777761480
+  world-name: world
+  x: -911.3881001986294
+  y: 74.0
+  z: -10162.966627523994
+  yaw: 1.6434924602508545
+  pitch: 15.863646507263184

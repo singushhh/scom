@@ -1,0 +1,872 @@
+#  ExamplePortal:
+#    world: it will be the world name
+#    triggerblock: LAVA # will only be used if the hastriggerblock is true and can be id or text
+#    pos1: # dont mess with the data here, if you do it may stop the portal from working.
+#      X:
+#      Y:
+#      Z:
+#    pos2:
+#      X:
+#      Y:
+#      Z:
+#    destination:
+#      issetpoint: true # if this was false point name would not be used and the coordinates would be saved here, it just adds more customisation.
+#      pointname: examplepoint # if issetpoint is false this wont be here and tppos will be.
+#      tppos:
+#        X:
+#        Y:
+
+aldeaplains:
+  world: world
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: aldeaplainsnether
+  pos1:
+    X: 178
+    Y: 82
+    Z: -3168
+  pos2:
+    X: 174
+    Y: 78
+    Z: -3168
+aldeaplainsnether:
+  world: world_nether
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: aldeaplains
+  pos1:
+    X: 32
+    Y: 44
+    Z: -403
+  pos2:
+    X: 28
+    Y: 40
+    Z: -403
+portalcasa:
+  world: world
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: portalcasanether
+  pos1:
+    X: 1589
+    Y: 92
+    Z: -814
+  pos2:
+    X: 1581
+    Y: 87
+    Z: -814
+portalcasanether:
+  world: world_nether
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: portalcasa
+  pos1:
+    X: 202
+    Y: 44
+    Z: -107
+  pos2:
+    X: 198
+    Y: 40
+    Z: -107
+mangrooveswamp:
+  world: world
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: mangrooveswampnether
+  pos1:
+    X: -871
+    Y: 66
+    Z: 1239
+  pos2:
+    X: -871
+    Y: 62
+    Z: 1235
+mangrooveswampnether:
+  world: world_nether
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: mangrooveswamp
+  pos1:
+    X: -109
+    Y: 44
+    Z: 156
+  pos2:
+    X: -109
+    Y: 40
+    Z: 152
+ancientcity:
+  world: world
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: ancientcitynether
+  pos1:
+    X: -1890
+    Y: -39
+    Z: -942
+  pos2:
+    X: -1890
+    Y: -43
+    Z: -946
+ancientcitynether:
+  world: world_nether
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: ancientcity
+  pos1:
+    X: -227
+    Y: 44
+    Z: -129
+  pos2:
+    X: -231
+    Y: 40
+    Z: -129
+mushrooms:
+  world: world
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: mushroomsnether
+  pos1:
+    X: -4873
+    Y: 71
+    Z: 11330
+  pos2:
+    X: -4873
+    Y: 67
+    Z: 11326
+mushroomsnether:
+  world: world_nether
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: mushrooms
+  pos1:
+    X: -616
+    Y: 44
+    Z: 1416
+  pos2:
+    X: -620
+    Y: 40
+    Z: 1416
+test:
+  world: world
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: test
+  pos1:
+    X: 55
+    Y: 79
+    Z: -3152
+  pos2:
+    X: 51
+    Y: 75
+    Z: -3152
+  portalArgs:
+    permission: mob.teleporting
+aldeasavanna:
+  world: world
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: aldeasavannanether
+  pos1:
+    X: -1502
+    Y: 67
+    Z: -4208
+  pos2:
+    X: -1506
+    Y: 63
+    Z: -4208
+  portalArgs:
+    particlein: heart
+    particleout: cloud
+aldeasavannanether:
+  world: world_nether
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: aldeasavanna
+  pos1:
+    X: -204
+    Y: 44
+    Z: -520
+  pos2:
+    X: -204
+    Y: 40
+    Z: -524
+  portalArgs:
+    particlein: heart
+    particleout: cloud
+jungla:
+  world: world
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: junglanether
+  pos1:
+    X: -1496
+    Y: 73
+    Z: -4556
+  pos2:
+    X: -1496
+    Y: 69
+    Z: -4560
+  portalArgs:
+    particlein: heart
+    particleout: heart
+junglanether:
+  world: world_nether
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: jungla
+  pos1:
+    X: -182
+    Y: 44
+    Z: -564
+  pos2:
+    X: -186
+    Y: 40
+    Z: -564
+  portalArgs:
+    particlein: heart
+    particleout: heart
+aldeashishuplains:
+  world: world
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: aldeashishuplainsnether
+  pos1:
+    X: -1530
+    Y: 75
+    Z: -5580
+  pos2:
+    X: -1534
+    Y: 71
+    Z: -5580
+  portalArgs:
+    particlein: heart
+    particleout: heart
+aldeashishuplainsnether:
+  world: world_nether
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: aldeashishuplains
+  pos1:
+    X: -204
+    Y: 44
+    Z: -686
+  pos2:
+    X: -204
+    Y: 40
+    Z: -690
+  portalArgs:
+    particlein: heart
+    particleout: heart
+aldeasnowy:
+  world: world
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: aldeasnowynether
+  pos1:
+    X: -4088
+    Y: 76
+    Z: -6358
+  pos2:
+    X: -4088
+    Y: 72
+    Z: -6362
+  portalArgs:
+    particlein: heart
+    particleout: heart
+aldeasnowynether:
+  world: world_nether
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: aldeasnowy
+  pos1:
+    X: -499
+    Y: 44
+    Z: -778
+  pos2:
+    X: -499
+    Y: 40
+    Z: -782
+  portalArgs:
+    particlein: heart
+    particleout: heart
+aldeataiga:
+  world: world
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: aldeataiganether
+  pos1:
+    X: -3960
+    Y: 66
+    Z: -5802
+  pos2:
+    X: -3964
+    Y: 62
+    Z: -5802
+  portalArgs:
+    particlein: heart
+    particleout: heart
+aldeataiganether:
+  world: world_nether
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: aldeataiga
+  pos1:
+    X: -502
+    Y: 44
+    Z: -737
+  pos2:
+    X: -506
+    Y: 40
+    Z: -737
+  portalArgs:
+    particlein: heart
+    particleout: heart
+aldeadesierto:
+  world: world
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: aldeadesiertonether
+  pos1:
+    X: -1593
+    Y: 75
+    Z: -8120
+  pos2:
+    X: -1597
+    Y: 71
+    Z: -8120
+  portalArgs:
+    particlein: heart
+    particleout: heart
+aldeadesiertonether:
+  world: world_nether
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: aldeadesierto
+  pos1:
+    X: -199
+    Y: 44
+    Z: -1018
+  pos2:
+    X: -203
+    Y: 40
+    Z: -1018
+  portalArgs:
+    particlein: heart
+    particleout: heart
+badlands:
+  world: world
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: badlandsnether
+  pos1:
+    X: -1636
+    Y: 118
+    Z: -8830
+  pos2:
+    X: -1636
+    Y: 114
+    Z: -8834
+  portalArgs:
+    particlein: heart
+    particleout: heart
+    permission: mob.teleport
+badlandsnether:
+  world: world_nether
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: badlands
+  pos1:
+    X: -199
+    Y: 44
+    Z: -1104
+  pos2:
+    X: -203
+    Y: 40
+    Z: -1104
+  portalArgs:
+    particlein: heart
+    particleout: heart
+    permission: mob.teleport
+aldeawilson:
+  world: world
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: aldeawilsonnether
+  pos1:
+    X: -2088
+    Y: 66
+    Z: -8366
+  pos2:
+    X: -2088
+    Y: 62
+    Z: -8370
+  portalArgs:
+    particlein: heart
+    particleout: heart
+    permission: mob.teleport
+aldeawilsonnether:
+  world: world_nether
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: aldeawilson
+  pos1:
+    X: -264
+    Y: 44
+    Z: -1045
+  pos2:
+    X: -264
+    Y: 40
+    Z: -1049
+  portalArgs:
+    particlein: heart
+    particleout: heart
+    permission: mob.teleport
+stronghold:
+  world: world
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: strongholdnether
+  pos1:
+    X: 2412
+    Y: -36
+    Z: -4319
+  pos2:
+    X: 2412
+    Y: -40
+    Z: -4323
+  portalArgs:
+    particlein: heart
+    particleout: heart
+    permission: mob.teleport
+strongholdnether:
+  world: world_nether
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: stronghold
+  pos1:
+    X: 300
+    Y: 44
+    Z: -540
+  pos2:
+    X: 300
+    Y: 40
+    Z: -544
+  portalArgs:
+    particlein: heart
+    particleout: heart
+    permission: mob.teleport
+stonyshore:
+  world: world
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: stonyshorenether
+  pos1:
+    X: 2196
+    Y: 83
+    Z: -7661
+  pos2:
+    X: 2196
+    Y: 79
+    Z: -7665
+  portalArgs:
+    particlein: heart
+    particleout: heart
+    permission: mob.teleport
+stonyshorenether:
+  world: world_nether
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: stonyshore
+  pos1:
+    X: 275
+    Y: 44
+    Z: -953
+  pos2:
+    X: 275
+    Y: 40
+    Z: -957
+  portalArgs:
+    particlein: heart
+    particleout: heart
+    permission: mob.teleport
+stonypeaks:
+  world: world
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: stonypeaksnether
+  pos1:
+    X: 1668
+    Y: 209
+    Z: -15218
+  pos2:
+    X: 1664
+    Y: 205
+    Z: -15218
+  portalArgs:
+    particlein: heart
+    particleout: heart
+    permission: mob.teleport
+stonypeaksnether:
+  world: world_nether
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: stonypeaks
+  pos1:
+    X: 209
+    Y: 44
+    Z: -1904
+  pos2:
+    X: 205
+    Y: 40
+    Z: -1904
+  portalArgs:
+    particlein: heart
+    particleout: heart
+    permission: mob.teleport
+birchforest:
+  world: world
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: birchforestnether
+  pos1:
+    X: 2671
+    Y: 67
+    Z: -8714
+  pos2:
+    X: 2671
+    Y: 63
+    Z: -8718
+  portalArgs:
+    particlein: heart
+    particleout: heart
+    permission: mob.teleport
+birchforestnether:
+  world: world_nether
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: birchforest
+  pos1:
+    X: 348
+    Y: 44
+    Z: -1100
+  pos2:
+    X: 344
+    Y: 40
+    Z: -1100
+  portalArgs:
+    particlein: heart
+    particleout: heart
+    permission: mob.teleport
+portalcentral:
+  world: world
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: portalcentralnether
+  pos1:
+    X: 1612
+    Y: 73
+    Z: -1186
+  pos2:
+    X: 1608
+    Y: 69
+    Z: -1186
+  portalArgs:
+    particlein: heart
+    particleout: heart
+portalcentralnether:
+  world: world_nether
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: portalcentral
+  pos1:
+    X: 187
+    Y: 44
+    Z: -142
+  pos2:
+    X: 187
+    Y: 40
+    Z: -146
+  portalArgs:
+    particlein: heart
+    particleout: heart
+aldeamangrooveswamp:
+  world: world
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: aldeamangrooveswampnether
+  pos1:
+    X: 1711
+    Y: 89
+    Z: 534
+  pos2:
+    X: 1711
+    Y: 85
+    Z: 530
+  portalArgs:
+    particlein: heart
+    particleout: heart
+aldeamangrooveswampnether:
+  world: world_nether
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: aldeamangrooveswamp
+  pos1:
+    X: 221
+    Y: 44
+    Z: 68
+  pos2:
+    X: 221
+    Y: 40
+    Z: 64
+  portalArgs:
+    particlein: heart
+    particleout: heart
+aldeajungla2:
+  world: world
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: aldeajungla2nether
+  pos1:
+    X: 3270
+    Y: 74
+    Z: 23
+  pos2:
+    X: 3266
+    Y: 70
+    Z: 23
+  portalArgs:
+    particlein: heart
+    particleout: heart
+aldeajungla2nether:
+  world: world_nether
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: aldeajungla2
+  pos1:
+    X: 403
+    Y: 44
+    Z: -14
+  pos2:
+    X: 399
+    Y: 40
+    Z: -14
+  portalArgs:
+    particlein: heart
+    particleout: heart
+aldeamushroomsnether:
+  world: world_nether
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: aldeamushrooms
+  pos1:
+    X: 265
+    Y: 44
+    Z: -133
+  pos2:
+    X: 261
+    Y: 40
+    Z: -133
+  portalArgs:
+    particlein: heart
+    particleout: heart
+aldeamushrooms:
+  world: world
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: aldeamushroomsnether
+  pos1:
+    X: -17907
+    Y: 74
+    Z: -11936
+  pos2:
+    X: -17911
+    Y: 70
+    Z: -11936
+  portalArgs:
+    particlein: heart
+    particleout: heart
+aldeadesierto2:
+  world: world
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: aldeadesierto2nether
+  pos1:
+    X: 727
+    Y: 73
+    Z: 310
+  pos2:
+    X: 723
+    Y: 69
+    Z: 310
+  portalArgs:
+    particlein: heart
+    particleout: heart
+aldeadesierto2nether:
+  world: world_nether
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: aldeadesierto2
+  pos1:
+    X: 92
+    Y: 44
+    Z: 40
+  pos2:
+    X: 92
+    Y: 40
+    Z: 36
+  portalArgs:
+    particlein: heart
+    particleout: heart
+aldeararanether:
+  world: world_nether
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: aldearara
+  pos1:
+    X: -123
+    Y: 44
+    Z: 39
+  pos2:
+    X: -123
+    Y: 40
+    Z: 35
+  portalArgs:
+    particlein: heart
+    particleout: heart
+aldearara:
+  world: world
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: aldeararanether
+  pos1:
+    X: -991
+    Y: 52
+    Z: 296
+  pos2:
+    X: -991
+    Y: 48
+    Z: 292
+  portalArgs:
+    particlein: heart
+    particleout: heart
+aldeaplayanether:
+  world: world_nether
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: aldeaplaya
+  pos1:
+    X: -327
+    Y: 44
+    Z: 120
+  pos2:
+    X: -327
+    Y: 40
+    Z: 116
+  portalArgs:
+    particlein: heart
+    particleout: heart
+aldeaplaya:
+  world: world
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: aldeaplayanether
+  pos1:
+    X: -2722
+    Y: 66
+    Z: 1042
+  pos2:
+    X: -2722
+    Y: 62
+    Z: 1038
+  portalArgs:
+    particlein: heart
+    particleout: heart
+aldeajungla4:
+  world: world
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: aldeajungla4nether
+  pos1:
+    X: 10311
+    Y: 88
+    Z: -2196
+  pos2:
+    X: 10307
+    Y: 84
+    Z: -2196
+  portalArgs:
+    particlein: heart
+    particleout: heart
+aldeajungla4nether:
+  world: world_nether
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: aldeajungla4
+  pos1:
+    X: 265
+    Y: 44
+    Z: -81
+  pos2:
+    X: 261
+    Y: 40
+    Z: -81
+  portalArgs:
+    particlein: heart
+    particleout: heart
+aldeajungla3nether:
+  world: world_nether
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: aldeajungla3
+  pos1:
+    X: 1029
+    Y: 44
+    Z: -680
+  pos2:
+    X: 1029
+    Y: 40
+    Z: -684
+  portalArgs:
+    particlein: heart
+    particleout: heart
+aldeajungla3:
+  world: world
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: aldeajungla3nether
+  pos1:
+    X: 8175
+    Y: 105
+    Z: -5426
+  pos2:
+    X: 8175
+    Y: 101
+    Z: -5430
+  portalArgs:
+    particlein: heart
+    particleout: heart
+aldeadarkforest:
+  world: world
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: aldeadarkforest
+  pos1:
+    X: 2188
+    Y: 49
+    Z: -3788
+  pos2:
+    X: 2184
+    Y: 45
+    Z: -3788
+  portalArgs:
+    particlein: heart
+    particleout: heart
+aldeadarkforestnether:
+  world: world_nether
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: aldeadarkforestover
+  pos1:
+    X: 275
+    Y: 44
+    Z: -485
+  pos2:
+    X: 271
+    Y: 40
+    Z: -485
+  portalArgs:
+    particlein: heart
+    particleout: heart
+pertes:
+  world: world
+  triggerblock: PINK_STAINED_GLASS_PANE
+  destination: añoña
+  pos1:
+    X: 1478
+    Y: 82
+    Z: -1211
+  pos2:
+    X: 1478
+    Y: 79
+    Z: -1214
+wdp:
+  world: world
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: sh1
+  pos1:
+    X: 1439
+    Y: 71
+    Z: -957
+  pos2:
+    X: 1435
+    Y: 68
+    Z: -957
+shinganshina1:
+  world: shinganshina1
+  triggerblock: GLASS_PANE
+  destination: sh1nether
+  pos1:
+    X: -564
+    Y: 68
+    Z: -38
+  pos2:
+    X: -564
+    Y: 65
+    Z: -42
+shinganshina1nether:
+  world: world_nether
+  triggerblock: WHITE_STAINED_GLASS_PANE
+  destination: shinganshina1
+  pos1:
+    X: 213
+    Y: 44
+    Z: -70
+  pos2:
+    X: 213
+    Y: 41
+    Z: -74

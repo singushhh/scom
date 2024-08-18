@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "hologramHeight": 0.0,
+    "skin": "ewogICJ0aW1lc3RhbXAiIDogMTYwMTgxMDc1MDEzNCwKICAicHJvZmlsZUlkIiA6ICI3NzI3ZDM1NjY5Zjk0MTUxODAyM2Q2MmM2ODE3NTkxOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJsaWJyYXJ5ZnJlYWsiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjAyM2IzZjQxNmUxYWU5ZDZiYTgwNGE4MzE5M2QwZDRmNDJjNDI3N2MxYTgyNjYwMmVjZmNkYzI0OWFjZDVmOCIKICAgIH0KICB9Cn0=",
+    "signature": "a4FTkk5sNoOHE4KBOU/ckwXCZXQuebI58LY+6o7AUP3P/5bkLAjJS2WIZzgDHmHLvrsSu2bQCRKNHgayYLakiggeAb4LjmtA2WegisRvO4O42yBPGgxJWlDVnTg+aY+rDb7LwXfBi8j3DPIe35W9w+p92oCVdCHydprnoljwMYIPrZrZVpBZh46dy+p4mRQ4oB1vYpX3h6nJx2uJJUOYOMDq0BIThkjECpdttNWO4m0jS4gmE9bCTbo/3TDFwpZtUrM9kjgDLT4SvX6hZIUpjjAjT3JoD0H6+5cvQd69+FjbhfJ+eSKaNjF7bTLetrTcpkz6n1CATExA63qURuNpZDFVgsdgidJLc+xr9yOHkCNehoiqQ9WDK26EF9IVP4xmhqo4Kcxp4vzo5hiiPJqmyHTrkGZN6DkexwlLifY2ii9KS5dj8vrcwQAwcPxwmex1ly/tzl5ngvLH39shhODXaCp0ANvNVIsgzkIgRuc7TXHI6P9g0RXSNHIV95j92W/KKkHEAy3ZXoPMI45t1e0JEsFx/n8u46+E6NXc423o542cXAPlLDmY+muqcoMlXbaQyLsvx6no6ZNHzA4y+wBVr65MZguaodp1ZCO8fYGzD2+gYbvidKmIPJprdlxYa88CLjVvImojbSXOL6IxvQd0dKBscR2EeIii8gBrIMOlzwc=",
+    "skinName": "https://imgur.com/OPAtvW9",
+    "location": {
+      "world": "shinganshina1",
+      "x": -22.5,
+      "y": 71.9375,
+      "z": -641.5,
+      "yaw": 43.67511,
+      "pitch": 2.796906
+    },
+    "npcType": "PLAYER",
+    "hologramLines": [
+      "&7&nClick&r<&7&nderecho",
+      "&c&l&nAbrir&r<&c&l&npuerta",
+      "&7&l&n|=&r&n&l&4&kiiii&r&e&n&lHannes&r&n&l&4&kiiii&7&l&n=|"
+    ],
+    "refreshSkinDuration": 0,
+    "clickActions": [
+      {
+        "actionType": "CMD",
+        "clickType": "DEFAULT",
+        "action": "setblock -24 72 -636 minecraft:glowstone",
+        "delay": 0
+      },
+      {
+        "actionType": "CMD",
+        "clickType": "DEFAULT",
+        "action": "setblock -28 63 -664 minecraft:redstone_block",
+        "delay": 0
+      }
+    ],
+    "npcEquip": {},
+    "npcFunctions": {
+      "holo": true,
+      "look": true
+    },
+    "customizationMap": {}
+  }
+]

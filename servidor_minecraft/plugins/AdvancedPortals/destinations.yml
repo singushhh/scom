@@ -1,0 +1,494 @@
+#  ExampleDestination:
+#    world: it will be the world name
+#    pos:
+#      X:
+#      Y:
+
+aldeaplainsnether:
+  world: world_nether
+  pos:
+    X: 30.437223008750255
+    Y: 41.0625
+    Z: -401.46323926208777
+    pitch: 72.24069
+    yaw: -178.19952
+aldeaplains:
+  world: world
+  pos:
+    X: 176.48044430782616
+    Y: 79.0
+    Z: -3166.23960587396
+    pitch: 69.8415
+    yaw: -164.20856
+portalcasanether:
+  world: world_nether
+  pos:
+    X: 200.49991490411193
+    Y: 41.0625
+    Z: -107.50581156799845
+    pitch: 61.311356
+    yaw: 7.1965637
+portalcasa:
+  world: world
+  pos:
+    X: 1585.3481624246501
+    Y: 88.0
+    Z: -814.3921285467692
+    pitch: 66.642685
+    yaw: -0.12988281
+mangrooveswampnether:
+  world: world_nether
+  pos:
+    X: -107.56277184636993
+    Y: 41.0625
+    Z: 154.50230714291257
+    pitch: 52.78106
+    yaw: 89.566956
+mangrooveswamp:
+  world: world
+  pos:
+    X: -871.4108367044308
+    Y: 63.0
+    Z: 1237.461957435293
+    pitch: 77.039024
+    yaw: -88.23567
+ancientcitynether:
+  world: world_nether
+  pos:
+    X: -228.53662580955455
+    Y: 41.0625
+    Z: -127.56123786042274
+    pitch: 65.20886
+    yaw: 177.53534
+ancientcity:
+  world: world
+  pos:
+    X: -1890.5527852486691
+    Y: -42.0
+    Z: -943.4642543061886
+    pitch: 71.60657
+    yaw: -95.930084
+mushroomsnether:
+  world: world_nether
+  pos:
+    X: -617.4450669117556
+    Y: 41.0625
+    Z: 1415.4639499855266
+    pitch: 62.543472
+    yaw: 0.53304124
+mushrooms:
+  world: world
+  pos:
+    X: -4873.4361130371835
+    Y: 68.0
+    Z: 11328.488364185403
+    pitch: 80.936874
+    yaw: -91.00152
+test:
+  world: world
+  pos:
+    X: 53.56543158888677
+    Y: 75.0
+    Z: -3144.519738235542
+    pitch: 67.327515
+    yaw: -149.98798
+aldeasavannanether:
+  world: world_nether
+  pos:
+    X: -202.6051086225782
+    Y: 41.0625
+    Z: -521.471735421939
+    pitch: 70.374535
+    yaw: 92.77124
+aldeasavanna:
+  world: world
+  pos:
+    X: -1503.561197056363
+    Y: 64.0
+    Z: -4208.531003831004
+    pitch: 71.97397
+    yaw: -4.3616333
+junglanether:
+  world: world_nether
+  pos:
+    X: -183.50848784219568
+    Y: 41.0625
+    Z: -562.419400357448
+    pitch: 81.037384
+    yaw: 178.60722
+jungla:
+  world: world
+  pos:
+    X: -1496.346903529501
+    Y: 70.0
+    Z: -4557.535497944453
+    pitch: 77.83865
+    yaw: -86.46542
+aldeashishuplainsnether:
+  world: world_nether
+  pos:
+    X: -202.60647168704094
+    Y: 41.0625
+    Z: -687.4868228696982
+    pitch: 77.30567
+    yaw: 89.305954
+aldeashishuplains:
+  world: world
+  pos:
+    X: -1531.4626447599228
+    Y: 72.0
+    Z: -5580.452211049588
+    pitch: 82.90366
+    yaw: 1.2365643
+aldeasnowynether:
+  world: world_nether
+  pos:
+    X: -497.56809432205256
+    Y: 41.0625
+    Z: -779.5394637327455
+    pitch: 74.6399
+    yaw: 89.56897
+aldeasnowy:
+  world: world
+  pos:
+    X: -4088.5212248259604
+    Y: 73.0
+    Z: -6359.529093715793
+    pitch: 58.112495
+    yaw: -91.96557
+aldeataiganether:
+  world: world_nether
+  pos:
+    X: -503.54162874490555
+    Y: 41.0625
+    Z: -737.3373849464946
+    pitch: 80.56122
+    yaw: 2.376587
+aldeataiga:
+  world: world
+  pos:
+    X: -3961.5871512020167
+    Y: 63.0
+    Z: -5800.435814594767
+    pitch: 55.503536
+    yaw: 179.77565
+aldeadesiertonether:
+  world: world_nether
+  pos:
+    X: -200.47488501211467
+    Y: 41.0625
+    Z: -1016.5484241845496
+    pitch: 77.16103
+    yaw: 178.38234
+aldeadesierto:
+  world: world
+  pos:
+    X: -1594.5764175454515
+    Y: 72.0
+    Z: -8118.494661214629
+    pitch: 83.02563
+    yaw: -172.82019
+badlandsnether:
+  world: world_nether
+  pos:
+    X: -200.53133888082752
+    Y: 41.0625
+    Z: -1102.619851982699
+    pitch: 74.228745
+    yaw: 179.9762
+badlands:
+  world: world
+  pos:
+    X: -1634.531502386117
+    Y: 115.0
+    Z: -8831.540566664395
+    pitch: 74.76189
+    yaw: 89.24106
+aldeawilsonnether:
+  world: world_nether
+  pos:
+    X: -262.46590985679643
+    Y: 41.0625
+    Z: -1046.4786427120725
+    pitch: 78.0043
+    yaw: 91.74125
+aldeawilson:
+  world: world
+  pos:
+    X: -2088.432852780248
+    Y: 63.0
+    Z: -8367.570587293778
+    pitch: 73.73917
+    yaw: -88.46048
+strongholdnether:
+  world: world_nether
+  pos:
+    X: 299.5780370465673
+    Y: 41.0625
+    Z: -541.5705121509577
+    pitch: 66.00859
+    yaw: -91.92597
+stronghold:
+  world: world
+  pos:
+    X: 2411.490074259298
+    Y: -38.9375
+    Z: -4320.503906445034
+    pitch: 61.47705
+    yaw: -87.660675
+stonyshorenether:
+  world: world_nether
+  pos:
+    X: 274.5696660508627
+    Y: 41.0625
+    Z: -954.3823971486748
+    pitch: 9.495538
+    yaw: 92.274414
+stonyshore:
+  world: world
+  pos:
+    X: 2197.35901605969
+    Y: 80.0
+    Z: -7662.449960236416
+    pitch: 36.68579
+    yaw: -90.052185
+stonypeaksnether:
+  world: world_nether
+  pos:
+    X: 207.476460362385
+    Y: 41.0625
+    Z: -1902.224611087878
+    pitch: 29.754944
+    yaw: -0.22573197
+stonypeaks:
+  world: world
+  pos:
+    X: 1666.450746132231
+    Y: 206.0
+    Z: -15218.599645669296
+    pitch: 11.628135
+    yaw: -129.37543
+birchforestnether:
+  world: world_nether
+  pos:
+    X: 346.5234477125631
+    Y: 41.0625
+    Z: -1100.6707770179187
+    pitch: 26.104263
+    yaw: 179.8389
+birchforest:
+  world: world
+  pos:
+    X: 2672.5681198056072
+    Y: 64.0
+    Z: -8715.499962776401
+    pitch: 26.556107
+    yaw: -88.295074
+portalcentralnether:
+  world: world_nether
+  pos:
+    X: 188.39487288877848
+    Y: 41.0625
+    Z: -143.45661975691834
+    pitch: 23.72483
+    yaw: -89.97266
+portalcentral:
+  world: world
+  pos:
+    X: 1610.4743197138826
+    Y: 70.0625
+    Z: -1184.3827869443032
+    pitch: 9.063373
+    yaw: -0.37628174
+aldeamangrooveswampnether:
+  world: world_nether
+  pos:
+    X: 220.5060273195733
+    Y: 41.0625
+    Z: 66.46497881405476
+    pitch: 25.223246
+    yaw: 93.95996
+aldeamangrooveswamp:
+  world: world
+  pos:
+    X: 1710.340959365575
+    Y: 86.0
+    Z: 532.6656856791287
+    pitch: 8.962438
+    yaw: 62.922787
+aldeajungla2nether:
+  world: world_nether
+  pos:
+    X: 401.55477245955734
+    Y: 41.0625
+    Z: -14.602321314871366
+    pitch: 23.890411
+    yaw: 161.23279
+aldeajungla2:
+  world: world
+  pos:
+    X: 3268.5653646654023
+    Y: 71.0
+    Z: 24.878750190656294
+    pitch: -2.2335234
+    yaw: 64.867615
+aldeamushroomsnether:
+  world: world_nether
+  pos:
+    X: 263.41216588149877
+    Y: 41.0625
+    Z: -131.45058338574685
+    pitch: 8.69611
+    yaw: -13.184753
+aldeamushrooms:
+  world: world
+  pos:
+    X: -17908.445582985223
+    Y: 71.0
+    Z: -11936.616287967134
+    pitch: 12.1615095
+    yaw: 169.16983
+aldeadesierto2nether:
+  world: world_nether
+  pos:
+    X: 93.70553806857666
+    Y: 41.0625
+    Z: 38.59831365447733
+    pitch: 17.492739
+    yaw: -90.679794
+aldeadesierto2:
+  world: world
+  pos:
+    X: 725.7111864386418
+    Y: 70.0
+    Z: 309.2122355688418
+    pitch: 4.164172
+    yaw: 167.52625
+aldearara:
+  world: world
+  pos:
+    X: -989.1012081282569
+    Y: 49.0625
+    Z: 294.4011295288902
+    pitch: 29.1571
+    yaw: -91.93323
+aldeararanether:
+  world: world_nether
+  pos:
+    X: -121.3633572217457
+    Y: 41.0625
+    Z: 37.49926136943646
+    pitch: 25.425102
+    yaw: -82.73853
+aldeataiga2:
+  world: world
+  pos:
+    X: 2186.4432640260898
+    Y: 46.0625
+    Z: -3788.8023517777433
+    pitch: 16.692886
+    yaw: 171.69635
+aldeataiga2nether:
+  world: world_nether
+  pos:
+    X: 273.54075908095365
+    Y: 41.0625
+    Z: -485.6541255438133
+    pitch: 23.623732
+    yaw: 167.8252
+aldeaplaya:
+  world: world
+  pos:
+    X: -2722.647924505568
+    Y: 63.0
+    Z: 1040.5840650527457
+    pitch: 5.965294
+    yaw: 49.836197
+aldeaplayanether:
+  world: world_nether
+  pos:
+    X: -325.37736014405675
+    Y: 41.0625
+    Z: 118.56272311492955
+    pitch: 15.028629
+    yaw: -99.17674
+aldeajungla3nether:
+  world: world_nether
+  pos:
+    X: 1028.3736824374168
+    Y: 41.0625
+    Z: -681.4717553176313
+    pitch: 9.431174
+    yaw: 85.73389
+aldeajungla3:
+  world: world
+  pos:
+    X: 8176.665939434418
+    Y: 102.0
+    Z: -5427.4990326841225
+    pitch: 12.096732
+    yaw: -130.8357
+aldeajungla4nether:
+  world: world_nether
+  pos:
+    X: 263.69622620536194
+    Y: 41.0625
+    Z: -81.65193604358159
+    pitch: 12.896099
+    yaw: -165.22668
+aldeajungla4:
+  world: world
+  pos:
+    X: 10309.464285766757
+    Y: 85.0
+    Z: -2194.468709025586
+    pitch: 15.506924
+    yaw: -1.2984619
+aldeadarkforest:
+  world: world_nether
+  pos:
+    X: 273.5358586631794
+    Y: 41.0625
+    Z: -485.54002428708134
+    pitch: 27.355816
+    yaw: 178.49231
+aldeadarkforestover:
+  world: world
+  pos:
+    X: 2186.4503021927612
+    Y: 46.0625
+    Z: -3788.4584791228717
+    pitch: 17.226097
+    yaw: 170.78174
+añoña:
+  world: world
+  pos:
+    X: 1402.4806905580533
+    Y: 87.0
+    Z: -1285.4785905800543
+    pitch: 82.350494
+    yaw: -11.209448
+wd1:
+  world: world
+  pos:
+    X: 1437.4905812493525
+    Y: 68.0
+    Z: -957.4775423940577
+    pitch: 2.3997498
+    yaw: -179.82877
+sh1nether:
+  world: world_nether
+  pos:
+    X: 212.6355836769477
+    Y: 41.0625
+    Z: -71.48055614690138
+    pitch: 80.099915
+    yaw: 88.04663
+shinganshina1:
+  world: shinganshina1
+  pos:
+    X: -564.4904190511787
+    Y: 65.0
+    Z: -39.50415795243761
+    pitch: 13.199903
+    yaw: 87.8869

@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 100.124.248.44
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1656312555014
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1716008601968
+  login: 1716003893203
+money: '0'
+last-account-name: 4gxss_
+logoutlocation:
+  world: 4e383350-d6d1-4f74-9f66-535777761480
+  world-name: world
+  x: 4872.699999988079
+  y: 65.375
+  z: 3058.699999988079
+  yaw: 170.35479736328125
+  pitch: 47.10000991821289
+lastlocation:
+  world: 4e383350-d6d1-4f74-9f66-535777761480
+  world-name: world
+  x: 1696.7738407012457
+  y: 69.0
+  z: -1040.01878544768
+  yaw: -139.2030029296875
+  pitch: 51.150054931640625
+past-usernames:
+- Luxhito0_
